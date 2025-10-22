@@ -1,0 +1,3 @@
+What challenges did you face when refactoring your code to use Bootstrap? It's limitations on exacting measurement. 
+How did using Bootstrap utility classes and components simplify your styling process? Allowed me to execute most in my HTML file with only needing to reference my styles.css code a few times. 
+In what scenarios might you choose not to use Bootstrap and write custom CSS instead? To resolve the limitation of Bootstrap custimization.

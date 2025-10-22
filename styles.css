@@ -1,18 +1,26 @@
 
 
-body{
-    background-color: rgb(183, 222, 248);
+/*body{
+    background-color: rgb(29, 88, 128);
     margin:auto;
-    width:80%;
-}
+    width:80%;*/
 
 .bigwhitebox{
-    height: 590px;
+    height: 500px;
     width: 425px;
-    background-color:white;
-    border-radius: 10px;
-    align-items: center;
+    background-color: pink;
+    border-radius: 20px;
+    margin: 30px;
+
+    
      
+}
+
+.custom-margin{
+    margin-left: 7.70rem;
+    margin-top: 1.70rem;
+
+
 }
 
 .qr_code{
@@ -20,8 +28,6 @@ body{
     height: 360px;
     width: 380px;
     border-radius: 10px;
-    /*padding-left: 25px;
-    padding-top: 25px;*/
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
